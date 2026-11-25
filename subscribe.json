@@ -6,41 +6,6 @@
       "key": "极速资源",
       "name": "1BJ",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "新浪资源",
-      "name": "1BJ",
-      "type": 1,
-      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "spider": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c"
-    },
-    {
-      "key": "影视",
-      "name": "1BJ",
-      "type": 1,
-      "api": "https://155api.com/api.php/provide/vod/",
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "红牛资源",
-      "name": "1BJ",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "spider": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c"
-    },
-    {
-      "key": "极速资源",
-      "name": "1BJ",
-      "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "categories": [
@@ -82,23 +47,32 @@
       "spider": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c"
     },
     {
-      "key": "滴滴资源",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "*91麻豆",
+      "key": "极速资源",
       "name": "1BJ",
       "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+      "playUrl": "",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "新浪资源",
+      "name": "1BJ",
+      "type": 1,
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "spider": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c"
+    },
+    {
+      "key": "红牛资源",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "spider": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c"
     },
     {
       "key": "光速资源",
@@ -108,6 +82,61 @@
       "searchable": 1,
       "quickSearch": 1,
       "spider": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c"
+    },
+    {
+      "key": "虎牙",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "内地剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "韩剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "马泰剧",
+        "体育赛事",
+        "综艺",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ],
+      "spider": "./fty.jar;md5;3d161697458ecbcd2651a749db761ba1"
+    },
+    {
+      "key": "鸡坤资源",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
+    },
+    {
+      "key": "玉兔专场",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
     },
     {
       "key": "视频采集3",
@@ -133,72 +162,6 @@
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
-      "key": "玉兔专场",
-      "name": "1BJ",
-      "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "奥斯卡",
-      "name": "1BJ",
-      "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "鸡坤资源",
-      "name": "1BJ",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "xml_火狐",
-      "name": "1BJ",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "剧情片",
-        "战争片",
-        "悬疑片",
-        "犯罪片",
-        "奇幻片",
-        "记录片",
-        "动画片",
-        "内地剧",
-        "香港剧",
-        "台湾剧",
-        "日剧",
-        "韩剧",
-        "欧美剧",
-        "马泰剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
-      ],
-      "spider": "./yydf.jar;md5;f362e434223a9b67903f9fe0c1f98c40"
-    },
-    {
       "key": "天涯资源",
       "name": "1BJ",
       "type": 1,
@@ -209,99 +172,21 @@
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
-      "key": "新浪资源",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "kxgav",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "ms4nii",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "魔都资源采集网",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "KpgxdyE",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "电影天堂",
-      "name": "1BJ",
-      "type": 0,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "番号资源",
+      "key": "*91麻豆",
       "name": "1BJ",
       "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/json",
+      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
-      "spider": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;5bfb9c86dc5ebd60fa91c2751f1cfa33"
-    },
-    {
-      "key": "森林",
-      "name": "1BJ",
-      "type": 1,
-      "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "gdlsE",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "quickSearch": 0,
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
-      "key": "zp059",
+      "key": "滴滴资源",
       "name": "1BJ",
       "type": 0,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0,
       "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
     },
@@ -368,13 +253,153 @@
       "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"
     },
     {
-      "key": "*番号资源",
+      "key": "KpgxdyE",
+      "name": "1BJ",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "kxgav",
+      "name": "1BJ",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "xml_火狐",
       "name": "1BJ",
       "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "剧情片",
+        "战争片",
+        "悬疑片",
+        "犯罪片",
+        "奇幻片",
+        "记录片",
+        "动画片",
+        "内地剧",
+        "香港剧",
+        "台湾剧",
+        "日剧",
+        "韩剧",
+        "欧美剧",
+        "马泰剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ],
+      "spider": "./yydf.jar;md5;f362e434223a9b67903f9fe0c1f98c40"
+    },
+    {
+      "key": "森林",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
+    },
+    {
+      "key": "影视",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/",
+      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
+    },
+    {
+      "key": "gdlsE",
+      "name": "1BJ",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "ms4nii",
+      "name": "1BJ",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "KxrbspE",
+      "name": "1BJ",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "森林采集",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0,
+      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
+    },
+    {
+      "key": "奥斯卡",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
+    },
+    {
+      "key": "电影天堂",
+      "name": "1BJ",
+      "type": 0,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "新浪资源",
+      "name": "1BJ",
+      "type": 0,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "魔都资源采集网",
+      "name": "1BJ",
+      "type": 0,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
@@ -388,44 +413,38 @@
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
-      "key": "虎牙",
+      "key": "番号资源",
       "name": "1BJ",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "api": "http://fhapi9.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
-      "categories": [
-        "内地剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "韩剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "日剧",
-        "马泰剧",
-        "体育赛事",
-        "综艺",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
-      ],
-      "spider": "./fty.jar;md5;3d161697458ecbcd2651a749db761ba1"
+      "spider": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;5bfb9c86dc5ebd60fa91c2751f1cfa33"
     },
     {
-      "key": "森林采集",
+      "key": "杏吧资源",
+      "name": "1BJ",
+      "type": 0,
+      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 0,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "*番号资源",
       "name": "1BJ",
       "type": 1,
-      "api": "https://slapibf.com/api.php/provide/vod/",
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "zp059",
+      "name": "1BJ",
+      "type": 0,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -471,32 +490,31 @@
       "spider": "./HeChengChaXiu.jar"
     },
     {
-      "key": "大地专场",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://dadiapi.com/api.php",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "杏吧资源",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 0,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
       "key": "zp100",
       "name": "1BJ",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 0,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "黑料",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "*乐播资源",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
       "filterable": 0,
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
@@ -522,26 +540,6 @@
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
-      "key": "KxrbspE",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "*乐播资源",
-      "name": "1BJ",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
       "key": "zp128",
       "name": "1BJ",
       "type": 0,
@@ -549,6 +547,26 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "巨量资源网",
+      "name": "1BJ",
+      "type": 0,
+      "api": "https://api.juliang.live/api/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "aqy",
+      "name": "1BJ",
+      "type": 0,
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
@@ -595,365 +613,15 @@
       "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
     },
     {
-      "key": "巨量资源网",
+      "key": "大地专场",
       "name": "1BJ",
       "type": 0,
-      "api": "https://api.juliang.live/api/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "aqy",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://dadiapi.com/api.php",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "黑料",
-      "name": "1BJ",
-      "type": 1,
-      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "盤搜索",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./lib/token.json",
-      "timeout": 30,
-      "spider": "./jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
-    },
-    {
-      "key": "盘搜",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_PanSou",
-      "ext": "./lib/token.json",
-      "timeout": 30,
-      "spider": "./jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
-    },
-    {
-      "key": "UP云搜",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_UpYun",
-      "ext": "./lib/token.json",
-      "timeout": 30,
-      "spider": "./jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
-    },
-    {
-      "key": "push_agent",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./lib/token.json",
-      "timeout": 30,
-      "spider": "./jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
-    },
-    {
-      "key": "云盘合集",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_Ypba",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "spider": "http://fmys.top/lib/fm.jar;md5;542ed744b07121213f70323b9bcbecca"
-    },
-    {
-      "key": "Cg51",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_Cg51",
-      "searchable": 1,
-      "filterable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/aliluya1977/yg/main/jar/182.jar",
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "ROU223",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_ROU223",
-      "searchable": 0,
-      "filterable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/aliluya1977/yg/main/jar/182.jar",
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "HiPianZhiBo",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_HiPianZhiBo",
-      "searchable": 1,
-      "filterable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/aliluya1977/yg/main/jar/182.jar",
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "XMVideo",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_XMVideo",
-      "searchable": 1,
-      "filterable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/aliluya1977/yg/main/jar/182.jar",
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "csp_Miss",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_Miss",
-      "searchable": 1,
       "filterable": 1,
       "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "csp_Eighteen",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_Eighteen",
-      "searchable": 1,
-      "filterable": 1,
-      "jar": "https://d.kstore.space/download/8415/Tvbox/jar/custom_spider18AV.jar",
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "Hanime1",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_Hanime",
-      "searchable": 1,
-      "filterable": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "csp_KungFu404",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "./libs/jar/Token.jar",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "spider": "./fty.jar;md5;3d161697458ecbcd2651a749db761ba1"
-    },
-    {
-      "key": "短剧网",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_Duanjuw",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "spider": "./sx.jar;md5;0840fd78292d4a87dfa48dbebd3e6466"
-    },
-    {
-      "key": "大众资源",
-      "name": "[爬]1BJ",
-      "type": 0,
-      "api": " https://cdn.dzzyapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "csp_XYQHiker_戏曲多多",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/戏曲多多.json",
-      "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6"
-    },
-    {
-      "key": "J91",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_J91",
-      "searchable": 1,
-      "filterable": 1,
-      "spider": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;5bfb9c86dc5ebd60fa91c2751f1cfa33"
-    },
-    {
-      "key": "csp_DouDou",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "spider": "http://xhztv.top/xhz/Yoursmile.jar;md5;69DADB9A99A618EA9E2F4E2B92968E41"
-    },
-    {
-      "key": "drpy_js_荐片",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "./ext/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./ext/荐片.js",
-      "timeout": 30,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "配置中心",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      },
-      "ext": "./lib/token.json",
-      "spider": "./jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
-    },
-    {
-      "key": "Zuise",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_Zuise",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "null$$$null$$$1$$$socks5://127.0.0.1:10073",
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "本地",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_Local",
-      "searchable": 0,
-      "changeable": 0,
-      "spider": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
-    },
-    {
-      "key": "影剧资源网",
-      "name": "[爬]1BJ",
-      "type": 1,
-      "api": " https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "csp_dadagui",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/达达龟.json",
-      "spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
-    },
-    {
-      "key": "Taohuazu",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_Taohuazu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "jar": "https://8415.kstore.space/Tvbox/jar/pg-18.jar",
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "BtSow",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_BtSow",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "null$$$null$$$1",
-      "jar": "https://8415.kstore.space/Tvbox/jar/pg-18.jar",
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "BtSearch",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_BtSearch",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "null$$$null$$$1",
-      "jar": "https://8415.kstore.space/Tvbox/jar/pg-18.jar",
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "MyPan",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_MyPanGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "spider": "http://oss4liview.moji.com/thd_file/2026/11/24/0684202079fbec343ec03f772b72e928.jpg;md5;d773eab0709f62b0077f8112765eb6d2"
-    },
-    {
-      "key": "动漫直链",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/动漫直链.json",
-      "spider": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
-    },
-    {
-      "name": "[爬]1BJ",
-      "key": "Xxxg",
-      "type": 3,
-      "api": "csp_XxxgAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "Xxxg",
-      "spider": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png;md5;f33fe0621341289e1491f2ae55b4423b"
-    },
-    {
-      "key": "苹果",
-      "name": "[爬]1BJ",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"
     }
   ],
   "rules": [
@@ -1050,8 +718,8 @@
     }
   ],
   "_maintainer": {
-    "updated": "2026-11-25 09:09:24",
-    "site_count": 74,
+    "updated": "2026-11-25 09:52:08",
+    "site_count": 43,
     "adult_mode": "mark",
     "adult_placement": "separate",
     "note": "成人站点已拆分至单独订阅",
