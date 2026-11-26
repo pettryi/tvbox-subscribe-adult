@@ -6,42 +6,6 @@
       "key": "极速资源",
       "name": "1BJ",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "影视",
-      "name": "1BJ",
-      "type": 1,
-      "api": "https://155api.com/api.php/provide/vod/",
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "新浪资源",
-      "name": "1BJ",
-      "type": 1,
-      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "spider": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c"
-    },
-    {
-      "key": "鸡坤资源",
-      "name": "1BJ",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "极速资源",
-      "name": "1BJ",
-      "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "categories": [
@@ -92,6 +56,50 @@
       "spider": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c"
     },
     {
+      "key": "虎牙",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "内地剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "韩剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "马泰剧",
+        "体育赛事",
+        "综艺",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ],
+      "spider": "./fty.jar;md5;3d161697458ecbcd2651a749db761ba1"
+    },
+    {
+      "key": "鸡坤资源",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
+    },
+    {
       "key": "光速资源",
       "name": "1BJ",
       "type": 1,
@@ -101,38 +109,23 @@
       "spider": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c"
     },
     {
-      "key": "视频采集3",
+      "key": "滴滴资源",
       "name": "1BJ",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "searchable": 1,
+      "type": 0,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0,
-      "categories": [
-        "爽文短剧",
-        "灾难片",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ],
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
     },
     {
-      "key": "玉兔专场",
+      "key": "新浪资源",
       "name": "1BJ",
       "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/",
-      "playUrl": "",
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
+      "spider": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c"
     },
     {
       "key": "IK",
@@ -197,38 +190,48 @@
       "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"
     },
     {
-      "key": "虎牙",
+      "key": "魔都资源采集网",
       "name": "1BJ",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "type": 0,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "玉兔专场",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
+    },
+    {
+      "key": "视频采集3",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 0,
       "categories": [
-        "内地剧",
+        "爽文短剧",
+        "灾难片",
+        "欧美剧",
+        "韩剧",
+        "日剧",
         "动作片",
-        "科幻片",
-        "战争片",
         "喜剧片",
         "爱情片",
+        "科幻片",
         "恐怖片",
-        "犯罪片",
         "剧情片",
-        "冒险片",
-        "记录片",
-        "韩剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "日剧",
-        "马泰剧",
-        "体育赛事",
-        "综艺",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
+        "战争片"
       ],
-      "spider": "./fty.jar;md5;3d161697458ecbcd2651a749db761ba1"
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
       "key": "天涯资源",
@@ -241,23 +244,23 @@
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
-      "key": "滴滴资源",
+      "key": "极速资源",
       "name": "1BJ",
-      "type": 0,
-      "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "电影天堂",
-      "name": "1BJ",
-      "type": 0,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "zp100",
+      "name": "1BJ",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
@@ -298,16 +301,6 @@
       "spider": "./yydf.jar;md5;f362e434223a9b67903f9fe0c1f98c40"
     },
     {
-      "key": "KpgxdyE",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
       "key": "森林",
       "name": "1BJ",
       "type": 1,
@@ -316,62 +309,11 @@
       "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
     },
     {
-      "key": "KxrbspE",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "kxgav",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "奥斯卡",
+      "key": "影视",
       "name": "1BJ",
       "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
+      "api": "https://155api.com/api.php/provide/vod/",
       "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
-    },
-    {
-      "key": "ms4nii",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "魔都资源采集网",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "gdlsE",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
       "key": "森林采集",
@@ -382,6 +324,26 @@
       "quickSearch": 1,
       "filterable": 0,
       "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
+    },
+    {
+      "key": "新浪资源",
+      "name": "1BJ",
+      "type": 0,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+    },
+    {
+      "key": "*乐播资源",
+      "name": "1BJ",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
       "key": "csp_xml_优质",
@@ -423,42 +385,13 @@
       "spider": "./HeChengChaXiu.jar"
     },
     {
-      "key": "*乐播资源",
-      "name": "1BJ",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "新浪资源",
+      "key": "杏吧资源",
       "name": "1BJ",
       "type": 0,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "*91麻豆",
-      "name": "1BJ",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
+      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 0,
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
-      "key": "番号资源",
-      "name": "1BJ",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "spider": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;5bfb9c86dc5ebd60fa91c2751f1cfa33"
     },
     {
       "key": "*番号资源",
@@ -471,6 +404,15 @@
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
+      "key": "番号资源",
+      "name": "1BJ",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "spider": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;5bfb9c86dc5ebd60fa91c2751f1cfa33"
+    },
+    {
       "key": "zp059",
       "name": "1BJ",
       "type": 0,
@@ -481,51 +423,50 @@
       "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
     },
     {
-      "key": "afasu",
+      "key": "奥斯卡",
       "name": "1BJ",
-      "type": 0,
-      "api": "https://www.afasu.com/api/xml.php",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
+      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
     },
     {
-      "key": "杏吧资源",
+      "key": "*91麻豆",
       "name": "1BJ",
-      "type": 0,
-      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 0,
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
-      "key": "如意资源网",
+      "key": "电影天堂",
       "name": "1BJ",
       "type": 0,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
-      "key": "zp100",
+      "key": "aqy",
       "name": "1BJ",
       "type": 0,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
-      "key": "奶香m",
+      "key": "黑料",
       "name": "1BJ",
       "type": 1,
-      "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
+      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
       "searchable": 1,
-      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
+      "quickSearch": 0,
+      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
       "key": "大地专场",
@@ -539,17 +480,6 @@
       "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
     },
     {
-      "key": "大地采集",
-      "name": "1BJ",
-      "type": 0,
-      "api": "https://dadiapi.com/apple_m3u8.php",
-      "playUrl": "https://play.dadiapi.com/watch?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
-    },
-    {
       "key": "zp128",
       "name": "1BJ",
       "type": 0,
@@ -560,23 +490,24 @@
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
-      "key": "巨量资源网",
+      "key": "如意资源网",
       "name": "1BJ",
       "type": 0,
-      "api": "https://api.juliang.live/api/provide/vod/at/xml/",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
-      "key": "aqy",
+      "key": "大地采集",
       "name": "1BJ",
       "type": 0,
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
+      "api": "https://dadiapi.com/apple_m3u8.php",
+      "playUrl": "https://play.dadiapi.com/watch?url=",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 0,
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     },
     {
@@ -615,12 +546,21 @@
       "spider": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c"
     },
     {
-      "key": "黑料",
+      "key": "奶香m",
       "name": "1BJ",
       "type": 1,
-      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
+      "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "quickSearch": 0,
+      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"
+    },
+    {
+      "key": "巨量资源网",
+      "name": "1BJ",
+      "type": 0,
+      "api": "https://api.juliang.live/api/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "spider": "https://gh-proxy.com/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar"
     }
   ],
@@ -712,8 +652,8 @@
     }
   ],
   "_maintainer": {
-    "updated": "2026-11-25 14:56:34",
-    "site_count": 43,
+    "updated": "2026-11-26 01:13:11",
+    "site_count": 37,
     "adult_mode": "mark",
     "adult_placement": "separate",
     "note": "成人站点已拆分至单独订阅",
